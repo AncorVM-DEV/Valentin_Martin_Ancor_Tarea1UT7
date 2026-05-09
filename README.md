@@ -49,5 +49,5 @@ Abre `http://localhost:5173`. Tienes que dar permisos de cámara para los gestos
 
 ## 🎨 Paleta
 
-Cyberpunk: morados profundos `#9D4EDD`, verde menta neón `#5EEAD4` y rosa fucsia `#ff006e`.
+Futurista: morados profundos `#9D4EDD`, verde menta neón `#5EEAD4` y rosa fucsia `#ff006e`.
 Adiós al azul soso de MUI por defecto.
