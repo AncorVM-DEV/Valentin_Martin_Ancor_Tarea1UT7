@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Mi informe técnico es para entregar a la profe en .docx, no quiero que se suba al repo
+Informe_Tecnico-Tarea1.md
