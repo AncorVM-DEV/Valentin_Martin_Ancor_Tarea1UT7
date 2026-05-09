@@ -113,8 +113,8 @@ export default function EjGestos() {
                 <h3> Ejemplo Detección Gestos Mano + Easter Eggs JJK </h3>
                 <p> Tienes que conceder acceso a la webcam </p>
                 <p> 👉 Señala con el dedo (point) para cambiar el color del fondo </p>
-                <p> ✌️ Haz el símbolo de la victoria (pinch) -> Expansión de Gojo </p>
-                <p> ✋ Mano abierta -> Santuario Malévolo de Sukuna </p>
+                <p> ✌️ Haz el símbolo de la victoria (pinch) : Expansión de Gojo </p>
+                <p> ✋ Mano abierta : Santuario Malévolo de Sukuna </p>
             </div>
             <div style={{ position: 'relative' }}>
                 <Webcam
