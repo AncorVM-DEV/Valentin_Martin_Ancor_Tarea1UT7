@@ -1,8 +1,8 @@
-# 🖐️ Tarea 1 UT7 — Gestos + RA + Modelo GLTF
+#  Tarea 1 UT7 — Gestos + RA + Modelo GLTF
 
 Proyecto de la asignatura **Aplicaciones Naturales de Usuario** (2º DAM) de **Ancor Valentín Martín**.
 
-App React + Vite que combina **detección de gestos por webcam**, **realidad aumentada** y **modelos 3D en formato GLTF**. Y un par de **easter eggs de Jujutsu Kaisen** porque sí 😏
+App React + Vite que combina **detección de gestos por webcam**, **realidad aumentada** y **modelos 3D en formato GLTF**. Y un par de **easter eggs de Jujutsu Kaisen**
 
 ---
 
@@ -19,11 +19,6 @@ App React + Vite que combina **detección de gestos por webcam**, **realidad aum
 
 ## 📸 Capturas
 
-> _(Reemplaza estas líneas por capturas reales cuando las tengas)_
-
-| Home cyberpunk | Página AR (toroide) | ARAncor con el patito |
-|---|---|---|
-| ![Home](docs/home.png) | ![AR](docs/ar.png) | ![ARAncor](docs/arancor.png) |
 
 | Easter Egg Gojo ✌️ | Easter Egg Sukuna ✋ |
 |---|---|
